@@ -1,1 +1,1 @@
-# 404.html
+https://genyus00.github.io/404/
